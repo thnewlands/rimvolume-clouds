@@ -1,4 +1,4 @@
-# rimvolume-clouds
+# Rim Pseudo Volumetric Clouds
 pseudo volumetric clouds using iq's noise and my rim volume technique
 
 More on the rim volumetric technique can be found here: https://github.com/thnewlands/rimvolume
