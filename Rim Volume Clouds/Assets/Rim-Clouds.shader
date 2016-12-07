@@ -71,6 +71,7 @@
 	  float4 _NoiseScale;
 
 	  //noise from inigo quilez's Noise - value - 3D demo https://www.shadertoy.com/view/4sfGzS
+	  //unity implimentation via http://www.blog.sirenix.net/blog/realtime-volumetric-clouds-in-unity
 	  float noise(float3 x) { x *= 4.0; float3 p = floor(x); float3 f = frac(x); f = f*f*(3.0 - 2.0*f); float2 uv = (p.xy + float2(37.0, 17.0)*p.z) + f.xy; float2 rg = tex2D(_NoiseOffsets, (uv + 0.5) / 256.0).yx; return lerp(rg.x, rg.y, f.z); }
       
 	  void surf (Input IN, inout SurfaceOutput o) {		  
