@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Rolling Clouds/clouds.unity
+  isLoaded: 1
+  isActive: 1
