@@ -1,4 +1,4 @@
-# Rim Pseudo Volumetric Clouds
+# Unity Rim Pseudo Volumetric Clouds
 pseudo volumetric clouds using iq's noise and my rim volume technique
 
 More on the rim pseudo volumetric technique can be found here: https://github.com/thnewlands/rimvolume
