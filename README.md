@@ -7,7 +7,7 @@ Inigo Quilez's image based noise can be found here https://www.shadertoy.com/vie
 
 ![anim1](http://imgur.com/NqEgx95.gif)
 
-Thomas Newlands - 2016 
+Holly Newlands - 2016 
 
 @thnewlands
 
